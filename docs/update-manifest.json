@@ -7,6 +7,10 @@
     {
       "version": "1.4.4",
       "src": "https://github.com/jensengar/mh-deploy/raw/refs/heads/main/docs/signed.1.4.4.swbn"
+    },
+    {
+      "version": "1.4.5",
+      "src": "https://github.com/jensengar/mh-deploy/raw/refs/heads/main/docs/signed.1.4.5.swbn"
     }
   ]
 }
