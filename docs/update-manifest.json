@@ -1,0 +1,8 @@
+{
+  "versions": [
+      {
+          "version": "1.4.3",
+          "src": "https://github.com/jensengar/mh-deploy/raw/refs/heads/main/docs/signed.1.4.3.swbn"
+      }
+  ]
+}
